@@ -55,4 +55,5 @@ body{
 #itemDisplay{
     background-color: royalblue;
     color: white;
+    text-transform: uppercase;
 }
